@@ -4,6 +4,7 @@ I am currently pursuing an MSc in **Statistics (Data Science and Machine Learnin
 
 - 💡 Passionate about **data science, statistical modeling, and machine learning**
 - ✈️ International experience: studied in **Canada** and the **UK**
+- 👧 Pronouns: She/Her
   
 ### 🛠️ Skills & Tools
 - **Programming & Data:** Python (pandas, scikit-learn, PyTorch), R (tidyverse, ggplot2), SQL  
@@ -13,5 +14,3 @@ I am currently pursuing an MSc in **Statistics (Data Science and Machine Learnin
 ### 📫 How to reach me:
 - Email: sz1325@ic.ac.uk/shuyao.zhou@mail.mcgill.ca
 - [My Linkedin page](https://www.linkedin.com/in/shuyao-zhou-2b5113233/)
-
-ahahha
